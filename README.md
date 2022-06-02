@@ -7,4 +7,4 @@
 - 📫 How to reach me: ArhumShahzad2003@Gmail.com
 - ⚡ Fun fact: 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Arhun2&theme=maroongold&currStreakNum=D1B000&border=D1B000&stroke=FFA20F&sideNums=D1B000&currStreakLabel=D1B000&sideLabels=FFA20F&dates=D1B000&ring=FFA20F&fire=FFD700)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Arhum2&theme=maroongold&stroke=FFA60F&border=FFA60F&currStreakLabel=FFA60F&fire=FF8C14&ring=FF8C14&sideLabels=FF8C14&sideNums=FFCB14&currStreakNum=FFCB14)](https://git.io/streak-stats)
