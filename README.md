@@ -1,5 +1,7 @@
 ### Hello World! 👋
 
+My names Arhum Shahzad, im a CS student at the University of Toronto. My favourite language is Python and out side of programming I love to game!
+
 ## 🔭 I’m currently working on...
 [CTW](https://github.com/Arhum2/CTW) - Online Volunteer managing application for a Senior Care organization
 
