@@ -8,7 +8,7 @@ My names Arhum Shahzad, im a CS student at the University of Toronto. My favorit
 
 * 🌍  I'm based in Toronto
 * ✉️  You can contact me at [ArhumShahzad2003@gmail.com](mailto:ArhumShahzad2003@gmail.com)
-* 🚀  I'm currently working on [Online Volunteer managing application for a Senior Care organization](http://https://github.com/Arhum2/CTW)
+* 🚀  I'm currently working on [Online Volunteer managing application for a Senior Care organization](https://github.com/Arhum2/CTW)
 * 🧠  I'm learning React
 * 🤝  I'm open to collaborating on anything!
 * ⚡  I like pineapple on pizza...
