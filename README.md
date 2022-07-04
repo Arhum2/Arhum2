@@ -35,12 +35,13 @@ My names Arhum Shahzad, im a CS student at the University of Toronto. My favorit
 <p align="left"> <a href="https://www.github.com/Arhum2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/Arhum_shahzad" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/arhum-shahzad-4994681a3/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/16889185/arhum-shahzad" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
 
 
-<b>Some of my stats 🏋️‍♀️</b>
+<h1>Some of my stats 🏋️‍♀️</h1>
+<a href="http://www.github.com/Arhum2"><img src="https://activity-graph.herokuapp.com/graph?username=Arhum2&bg_color=000000&color=ef4444&line=f97316&point=ef4444&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Arhum2&count_private=true&theme=maroongold&stroke=FFA60F&border=FFA60F&currStreakLabel=FFA60F&fire=FF8C14&ring=FF8C14&sideLabels=FF8C14&sideNums=FFCB14&currStreakNum=FFCB14)](https://git.io/streak-stats) 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arhum2&layout=compact&hide=PowerShell&theme=maroongold&border=FFA60F&count_private=true&border_color=FFA60F&title_color=FFA60F)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="http://www.github.com/Arhum2"><img src="https://activity-graph.herokuapp.com/graph?username=Arhum2&bg_color=000000&color=ef4444&line=f97316&point=ef4444&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
 
 
 
